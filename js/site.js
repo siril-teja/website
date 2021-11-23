@@ -48,7 +48,7 @@ function onLoadComplete() {
         handler: function (direction) {
             var typedTitle = new Typed('#typed-title', {
                 strings: [
-                  '<h1 class="display-1 intro-text">Dhruv Kool Rajamani</h1>'
+                  '<h1 class="display-1 intro-text">Siril Teja Dukkipati</h1>'
                 ],
                 typeSpeed: 30,
                 loop: false,
