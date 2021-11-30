@@ -62,6 +62,7 @@ h5 {
 
 .section .center {
   position: relative;
+  text-align: center;
   margin: 50px, 0, 50px, 0;
 }
 
@@ -598,3 +599,10 @@ html {
   position: relative;
   min-height: 100%;
 }
+
+
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
